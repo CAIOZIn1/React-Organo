@@ -10,4 +10,4 @@
 npm run dev
 ```
 
-clique <a href='https://react-organo-iota.vercel.app/'> aqui</a> para visitar o site
+>clique <a href=''> aqui</a> para visitar o site
